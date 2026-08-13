@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
+| [0289-game-of-life](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0289-game-of-life/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0289-game-of-life](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0289-game-of-life/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0289-game-of-life](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0289-game-of-life/) | Medium |
 <!---LeetCode Topics End-->
