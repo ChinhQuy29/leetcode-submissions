@@ -10,5 +10,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
