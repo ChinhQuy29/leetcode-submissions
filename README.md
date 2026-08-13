@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -20,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
