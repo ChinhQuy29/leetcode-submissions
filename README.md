@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +110,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
