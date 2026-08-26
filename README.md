@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0055-jump-game](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
