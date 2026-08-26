@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0056-merge-intervals](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
