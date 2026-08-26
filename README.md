@@ -102,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
