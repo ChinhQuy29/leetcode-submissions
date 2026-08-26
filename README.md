@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0289-game-of-life](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0289-game-of-life/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
