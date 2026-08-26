@@ -49,14 +49,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -123,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
