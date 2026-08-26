@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -106,4 +107,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
