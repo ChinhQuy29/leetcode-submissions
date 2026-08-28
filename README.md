@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
+| [0046-permutations](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -173,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0137-single-number-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
