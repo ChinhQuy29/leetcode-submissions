@@ -10,13 +10,13 @@ class Solution:
 
         def bfs(node, height):
             if not node:
-                return
+                return 
             
             if height == len(res):
                 res.append(node.val)
-            
+
             bfs(node.right, height + 1)
             bfs(node.left, height + 1)
-
+        
         bfs(root, 0)
         return res
