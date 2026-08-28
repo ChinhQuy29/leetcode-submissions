@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0383-ransom-note](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0383-ransom-note/) | Easy |
@@ -177,5 +179,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0046-permutations/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ChinhQuy29/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
